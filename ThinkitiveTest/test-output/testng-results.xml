@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13953" started-at="2020-10-26T00:49:14 IST" finished-at="2020-10-26T00:49:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13953" started-at="2020-10-26T00:49:14 IST" finished-at="2020-10-26T00:49:28 IST">
+      <class name="TestCases.ThinkitiveTest.Assignment2">
+        <test-method status="PASS" signature="init()[pri:1, instance:TestCases.ThinkitiveTest.Assignment2@4b553d26]" name="init" duration-ms="7925" started-at="2020-10-26T00:49:14 IST" finished-at="2020-10-26T00:49:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="searchProduct()[pri:2, instance:TestCases.ThinkitiveTest.Assignment2@4b553d26]" name="searchProduct" duration-ms="5171" started-at="2020-10-26T00:49:22 IST" finished-at="2020-10-26T00:49:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="getProductDetails()[pri:0, instance:TestCases.ThinkitiveTest.Assignment2@4b553d26]" name="getProductDetails" is-config="true" duration-ms="792" started-at="2020-10-26T00:49:27 IST" finished-at="2020-10-26T00:49:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductDetails -->
+      </class> <!-- TestCases.ThinkitiveTest.Assignment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
